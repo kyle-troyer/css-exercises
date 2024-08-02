@@ -4,7 +4,7 @@ In this last flexbox exercise you're going to recreate an incredibly common webs
 
 As with the previous exercise, we've left a little more for you to do.
 
-### Hints
+### Hints 
 - You will need to change the flex-direction to push the footer down.
 - You will need to add some divs as containers to get things to line up correctly.
 - `flex-wrap` will help get the cards aligned correctly.
